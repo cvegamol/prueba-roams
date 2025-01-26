@@ -14,8 +14,8 @@ La API permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) so
 
 1. Clona el repositorio:
     ```bash
-    git clone 
-    cd 
+    git clone 'https://github.com/cvegamol/prueba-roams.git'
+
     ```
 
 2. Crea un entorno virtual y actívalo:
